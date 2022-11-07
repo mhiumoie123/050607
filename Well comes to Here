@@ -1,16 +1,18 @@
-<HTML>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 
- <HEAD>
+<html>
 
-  <TITLE> New Document </TITLE>
+ <head>
 
-  <META NAME="Generator" CONTENT="EditPlus">
+  <title> New Document </title>
 
-  <META NAME="Author" CONTENT="">
+  <meta name="Generator" content="EditPlus">
 
-  <META NAME="Keywords" CONTENT="">
+  <meta name="Author" content="">
 
-  <META NAME="Description" CONTENT="">
+  <meta name="Keywords" content="">
+
+  <meta name="Description" content="">
 
   <style>
 
@@ -38,10 +40,10 @@ canvas {
 
   </style>
 
- </HEAD>
+ </head>
 
 
- <BODY>
+ <body>
 
   <canvas id="pinkboard"></canvas>
 
@@ -514,9 +516,10 @@ var ParticlePool = (function() {
 
   </script>
 
- </BODY>
+ </body>
 
-</HTML>
+</html
+>
 
 
 
